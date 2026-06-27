@@ -1,4 +1,4 @@
-# 🚢 Titanic EDA Analysis
+# 🚢 Titanic Data Analysis
 
 ## 📌 Project Overview
 
